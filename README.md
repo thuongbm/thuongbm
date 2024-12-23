@@ -1,7 +1,7 @@
 👋 Welcome to My GitHub Profile!
 Hi there, I’m thuongw!
 
-🌱 I’m currently learning programming and exploring the world of technology.
+🌱 I’m currently learning programming and exploring the world of technology. <br>
 💡 I’m particularly interested in wed development, GPA,...
 💻 Languages I’m learning: C++, Java.
 🎸 When I’m not coding, I enjoy playing game, watching movie...
