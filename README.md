@@ -7,5 +7,5 @@
 <li>🎸 When I’m not coding, I enjoy playing game, watching movie...</li> <br> 
 📫 Feel free to connect with me or discuss projects through: <br>
 Email: <a href= "mailto:buiminhthuong30122005@gmail.com">buiminhthuong30122005@gmail.com</a> <br>
-FaceBook: <a href="https://www.facebook.com/thuong.bui.444977">Thương Bùi</a> <br>
+Facebook: <a href="https://www.facebook.com/thuong.bui.444977">Thương Bùi</a> <br>
 Thanks for visiting my profile, and have an amazing day! 🌟
