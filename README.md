@@ -2,7 +2,7 @@
 <h2>Hi there, I’m thuongw!</h2>
 
 <li>🌱 I’m currently learning programming and exploring the world of technology.</li>
-<li>💡 I’m particularly interested in wed development, GPA,... </li>
+<li>💡 I’m particularly interested in web development, GPA,... </li>
 <li>💻 Languages I’m learning: C++, Java.</li>
 <li>🎸 When I’m not coding, I enjoy playing game, watching movie...</li> <br> 
 📫 Feel free to connect with me or discuss projects through: <br>
